@@ -4,7 +4,7 @@
             <idOffer>1</idOffer>
             <Price>15000000</Price>
             <idCurrency>1</idCurrency>
-            <idCity>133</idCity>
+            <idCity>135</idCity>
             <Additional><![CDATA[Скальный самосвал ALTAI MAYMA (49 тонн), выпуск 2024 год.
             ✅ ЭПТС действующий, в наличии.
             ❗️❗️❗️ Спец. условия для покупки в I квартале 2025 года.
@@ -54,7 +54,7 @@
         <SpecOffer>
             <idOffer>2</idOffer>
             <idCurrency>1</idCurrency>
-            <idCity>133</idCity>
+            <idCity>113</idCity>
             <idDamagedType>0</idDamagedType>
             <HasNoDocs>0</HasNoDocs>
             <Whereabouts>0</Whereabouts>
@@ -115,7 +115,7 @@
         <SpecOffer>
             <idOffer>3</idOffer>
             <idCurrency>1</idCurrency>
-            <idCity>133</idCity>
+            <idCity>113</idCity>
             <idDamagedType>0</idDamagedType>
             <HasNoDocs>0</HasNoDocs>
             <Whereabouts>0</Whereabouts>
@@ -172,7 +172,7 @@
         <SpecOffer>
             <idOffer>4</idOffer>
             <idCurrency>1</idCurrency>
-            <idCity>133</idCity>
+            <idCity>113</idCity>
             <idDamagedType>0</idDamagedType>
             <HasNoDocs>0</HasNoDocs>
             <Whereabouts>0</Whereabouts>
