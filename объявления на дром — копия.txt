@@ -1,6 +1,5 @@
 <avtoxml>
 <SpecOffers>
-<!--  Скальный самосвал  -->
 <SpecOffer>
 <idOffer>1</idOffer>
 <Price>15000000</Price>
